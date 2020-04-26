@@ -1,0 +1,10 @@
+{
+  "name": "tap-one",
+  "version": "0.0.1",
+  "description": "Near-zero output TAP reporter",
+  "main": "index.js",
+  "repository": "https://github.com/tkers/tap-one.git",
+  "author": "Tijn Kersjes <tijn@divbyzero.nl>",
+  "license": "MIT",
+  "private": false
+}
